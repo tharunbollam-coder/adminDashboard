@@ -1,8 +1,8 @@
 
 const OrderLists = () => {
   return (
-    <div>
-      <h1>Order Lists</h1>
+    <div className="p-5 h-[78vh] md:h-[90vh] overflow-auto">
+      <h1 className="text-black text-2xl font-bold mb-5">Order Lists</h1>
     </div>
   );
 };
